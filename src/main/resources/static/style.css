@@ -1,0 +1,22 @@
+.weather-container {
+    background: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.weather {
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.temp {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.icon {
+    width:10%;
+}
